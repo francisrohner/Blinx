@@ -1,0 +1,5 @@
+﻿+ Implement Screen Flash Option
++ Implement timeShown Setting
++ Implement Screen Flash Color Setting
++ Implement SM, MD, LG display options
++ Implement Blinx Form Motion option

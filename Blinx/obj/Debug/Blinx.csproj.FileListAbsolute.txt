@@ -1,0 +1,11 @@
+C:\Users\Frankie\AppData\Local\Temporary Projects\Blinx\bin\Debug\Blinx.exe.config
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\bin\Debug\Blinx.exe.config
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\bin\Debug\Blinx.exe
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\bin\Debug\Blinx.pdb
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.csprojResolveAssemblyReference.cache
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.Properties.Resources.resources
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.csproj.GenerateResource.Cache
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.exe
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.pdb
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.Blinx.resources
+C:\Users\Frankie\Documents\Visual Studio 2015\Projects\Blinx\Blinx\obj\Debug\Blinx.Settings.resources
